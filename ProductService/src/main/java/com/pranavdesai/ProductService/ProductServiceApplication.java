@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductServiceApplication {
 
 	public static void main(String[] args) {
-		//Starter Spring Config
-		//Bhfsdf
 		SpringApplication.run(ProductServiceApplication.class, args);
 	}
 
